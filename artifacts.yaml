@@ -1,0 +1,6 @@
+fashion-mnist-model:
+  description: Fashion MNIST classifier.
+  labels:
+  - image-classification
+  path: output/model.h5
+  type: model
