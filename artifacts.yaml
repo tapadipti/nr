@@ -4,3 +4,6 @@ fashion-mnist-model:
   - image-classification
   path: output/model.h5
   type: model
+model-studio:
+  path: output/model-studio.pkl
+  type: model
