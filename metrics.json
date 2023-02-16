@@ -1,0 +1,12 @@
+{
+    "name::property": {
+        "metric_1": {
+            "avg_metric": 1,
+            "std_metric": 1,
+        },
+        "metric_2": {
+            "avg_metric": 1,
+            "std_metric": 1,
+        }
+    }
+}
