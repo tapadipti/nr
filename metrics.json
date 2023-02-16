@@ -1,12 +1,4 @@
 {
-    "name::property": {
-        "metric_1": {
-            "avg_metric": 1,
-            "std_metric": 1,
-        },
-        "metric_2": {
-            "avg_metric": 1,
-            "std_metric": 1,
-        }
-    }
+    "avg_prec": 0.5325162867864254,
+    "roc_auc": 0.9106964878520005
 }
